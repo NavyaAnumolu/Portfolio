@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />Fluent in multiple programming languages including 
               <i>
-                <b className="purple"> Python, C#, and JavaScript </b>
+                <b className="purple"> C#, Python, and JavaScript </b>
               </i>
               <br />
               <br />
